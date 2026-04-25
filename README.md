@@ -17,4 +17,4 @@ https://oauth.yandex.ru/authorize?response_type=token&client_id=23cabbbdc6cd418a
 https://music.yandex.ru/#access_token=y0__{токен яндекса}&token_type={}&expires_in={}&state={}cid={}
 
 
-Для запуска хватит обычной картошки))
+Для запуска хватит обычной картошке))
