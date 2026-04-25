@@ -3,12 +3,12 @@
 
 ### Краткая настройка config.json
 {
-    "bot_token": "BOTFATHER_TOKEN", - получение токена из офиц. бота тг @BotFather
-    "yandex_token": "TOKEN", - токен яндекс
+    "bot_token": "BOTFATHER_TOKEN", # получение токена из офиц. бота тг @BotFather
+    "yandex_token": "TOKEN", # токен яндекс
     "proxies": [
-      сюда можно добавлять socks5 прокси (на гитхабе их много)
+      #сюда можно добавлять socks5 прокси (на гитхабе их много)
     ],
-    "db_name": "users.json" - имя бд
+    "db_name": "users.json" - #имя бд
 }
 
 ### чтобы получить yandex_token, нужно перейти по ссылке
